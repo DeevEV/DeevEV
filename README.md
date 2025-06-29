@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Team+Lead;Python+%26+C%2B%2B+Developer;System+Developer;Always+learning+new+things&center=true&size=25"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Python+%26+C%2B%2B+Developer;System+Developer;Always+learning+new+things&center=true&size=25"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeevEV&layout=compact&hide_title=true&langs_count=10" alt="Top Langs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IGlek&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DeevEV&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -226,5 +226,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IGlek&color=blue&base=348" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=DeevEV&color=blue&base=348" alt="visitor counter"/>
 </p>

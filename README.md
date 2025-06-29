@@ -15,7 +15,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGlek&layout=compact&hide_title=true&langs_count=10" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeevEV&layout=compact&hide_title=true&langs_count=10" alt="Top Langs"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IGlek&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 

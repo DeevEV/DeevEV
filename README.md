@@ -10,6 +10,7 @@
   <a href="https://t.me/Egor_Deev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://deev.space"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:egor@deev.space"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="tel:+79993737737"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
 </p>
 
 <br />
@@ -74,7 +75,13 @@
 - Конвертация голосовых сообщений в текст при помощи фреймворка gTTS
 - Сложный алгоритм оповещения пользователя при упоминании имени в чате
 
-**Стек:** Python, Asyncio, SQLite, Aiogram, gTTS
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/gTTS-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ### School Table
 *Приложение на Python для ведения школьного расписания и записи заметок*
@@ -84,7 +91,11 @@
 - Связка дат заметок с днями недели
 - Широкая фильтрация задач
 
-**Стек:** PyQT, SQLite
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 ### deev.space / deev.su - 20 посещений/мес.
 *Личный сайт с информацией обо мне, контактной информацией, достижениями и вкладками с проектами*
@@ -95,7 +106,13 @@
 - Шаблонизация HTML кода с использованием Jinja логики
 - Привязка БД и метрик Яндекса
 
-**Стек:** Django, SQLite, Nginx, Bootstrap
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+</p>
 
 ### Quest Applicant
 *Приложение на С++ для сортировки студентов по их направлению, прописке и ФИО*
@@ -105,9 +122,11 @@
 - Кастомный интерфейс всех иконок
 - Статистические графики
 
-**Стек:** C++, WinForms, SQLite
-
-**Также на GitHub:** 1 игра и 4 tg-бота
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 </details>
 
@@ -226,4 +245,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeevEV&color=blue&base=348" alt="visitor counter"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
 </p>

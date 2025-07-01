@@ -1,112 +1,146 @@
-# 👋 Егор Деев | Backend Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Привет!%20Я%20Егор%20Деев&fontSize=40&fontAlign=50" alt="header"/>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Python+%26+Django+Specialist;High-Load+Systems+Developer;Always+building+something+new&center=true&size=25"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Python+%26+Django+Developer;Automation+Enthusiast;System+Architect;Always+learning+new+things&center=true&size=25"/>
+</p>
 
-<div align="center">
-  <a href="https://deev.space"><img src="https://img.shields.io/badge/Website-deev.space-blue?style=for-the-badge&logo=web&logoColor=white"/></a>
-  <a href="https://t.me/Egor_Deev"><img src="https://img.shields.io/badge/Telegram-@Egor__Deev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:egor@deev.space"><img src="https://img.shields.io/badge/Email-egor@deev.space-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+<p align="center">
+  <a href="https://t.me/Egor_Deev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://deev.space"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:egor@deev.space"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-## 🚀 О себе
+<br />
 
-Backend-разработчик с опытом создания высоконагруженных систем и автоматизации бизнес-процессов. Специализируюсь на Python-экосистеме, проектировании API и оптимизации производительности баз данных.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDeev&layout=compact&hide_border=true&hide_title=true&langs_count=10&theme=dark" alt="Top Langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EDeev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
 
-**Ключевые достижения:**
-- 🎯 17K+ активных пользователей в Telegram-ботах
-- ⚡ 95% улучшение производительности SQL-запросов
-- 🏆 2 место в международном конкурсе научно-практических работ
-- 👥 Руководство командой разработки в МосПолитехе
+# Мои Проекты
 
-## 🛠 Технологический стек
+<details>
+<summary>🐍 Backend & Systems Development</summary>
 
-```python
-backend = ['Python', 'Django', 'FastAPI', 'Flask']
-databases = ['PostgreSQL', 'SQLite', 'Redis']
-devops = ['Docker', 'Nginx', 'GitLab CI/CD']
-integrations = ['REST API', 'gRPC', 'Telegram Bot API']
-tools = ['Git', 'Qt Creator', 'Asyncio', 'Aiogram']
-```
+### Проекты
 
-## 📊 Статистика GitHub
+* 🤖 [**NPR MeteoBot**](https://github.com/EDeev/npr_meteobot) – автоматизированная система мониторинга погоды для Норильского промышленного района
+* 🎓 [**МосПолиХелпер**](https://github.com/EDeev/mospoly-helper) – навигационная система для кампусов МосПолитеха с видео-маршрутами
+* 🤖 [**ABOBOT**](https://github.com/EDeev/chatping_abobot) – многофункциональный Telegram-бот для управления группами (17.3K+ пользователей)
+* 🍽️ [**School Menu Bot**](https://github.com/EDeev/school_menu) – автоматизация системы школьного питания
+* 🔄 [**VK to Telegram Reposter**](https://github.com/EDeev/vkrepost_to_tg) – автоматизированная система репостинга контента
+* 🗓️ [**Y.Calendarkin**](https://github.com/EDeev/y.calendarkin) – Telegram-бот для уведомлений из Яндекс.Календаря
+* 🎥 [**Circlechek**](https://github.com/EDeev/circlechek) – Telegram-бот для преобразования видео в кружочки
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EDeev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDeev&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</div>
+### Технологии
 
-## 🎯 Избранные проекты
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
-<table>
-<tr>
-<td width="50%">
+</details>
 
-### 🤖 ABOBOT
-**17.3K+ пользователей**
-- Telegram-бот с NLP и аналитикой
-- Морфологический анализ текста
-- Голосовые сообщения → текст
-- **Стек:** Python, Aiogram, gTTS, SQLite
+<details>
+<summary>🖥️ Desktop Applications</summary>
 
-</td>
-<td width="50%">
+### Проекты
 
-### 🗺️ МосПолиХелпер
-**Навигация по университету**
-- Обработка видео в реальном времени
-- Система кеширования (95% hit rate)
-- Оптимизация под мобильные устройства
-- **Стек:** Python, MoviePy, FFmpeg
+* 📅 [**School Table**](https://github.com/EDeev/school_table) – многофункциональное приложение для управления школьным расписанием
+* 📊 [**Student Sorter**](https://github.com/EDeev/student_sorter) – система автоматизированной обработки студенческих заявлений
+* 📱 [**Mobile Devices Database**](https://github.com/EDeev/mobiles_dataset) – комплексная система управления каталогом мобильных устройств
+  
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### Технологии
 
-### 📱 Mobile Devices DB
-**База данных мобильных устройств**
-- PostgreSQL с нормализацией до 3НФ
-- 95% улучшение производительности JOIN
-- GUI на PyQt6 с аналитикой
-- **Стек:** Python, PostgreSQL, PyQt6
+<p align="left">
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-</td>
-<td width="50%">
+</details>
 
-### 🌐 deev.space
-**Личный веб-сайт**
-- Django с адаптивным дизайном
-- SEO-оптимизация и аналитика
-- Bootstrap + параллакс эффекты
-- **Стек:** Django, Bootstrap, Nginx
+<details>
+<summary>🌐 Web Development</summary>
 
-</td>
-</tr>
-</table>
+### Проекты
 
-## 🎮 Области экспертизы
+* 🌍 [**deev.space**](https://github.com/EDeev/deev.space) – личный веб-сайт с портфолио и блогом
+* 📚 [**Yandex Lyceum Projects**](https://github.com/EDeev/yandex_lyceum) – коллекция веб-приложений из образовательной программы
+* 🗃️ [**API Processor**](https://github.com/EDeev/api_processor) – Django REST API для обработки аудио и документов с gRPC интеграцией
 
-<div align="center">
+### Технологии
 
-| 🔧 Backend Development | 🏗️ System Architecture | 📊 Database Design |
-|:---:|:---:|:---:|
-| Django REST Framework | Микросервисы | PostgreSQL оптимизация |
-| Асинхронное программирование | Docker контейнеризация | Индексирование |
-| API интеграции | Высоконагруженные системы | Нормализация до 3НФ |
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+</p>
 
-</div>
+</details>
 
-## 🌟 Текущая деятельность
+<details>
+<summary>🎮 Game Development</summary>
 
-- 🎓 **Руководитель команды разработки** в МосПолитехе
-- 🔬 Разработка офисного пакета на базе Apache OpenOffice
-- 🌐 Создание веб-интерфейсов с адаптивным дизайном
-- 🤖 Автоматизация бизнес-процессов через Telegram
+### Проект
+
+* 🎲 [**Pixel Gamble**](https://github.com/EDeev/pixel_gamble) – полнофункциональная 2D action-RPG игра на Pygame
+
+### Технологии
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pygame-00AA00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+</details>
+
+# Обо мне
+
+<details>
+<summary>🏆 Достижения</summary>
+  
+- 🥈 **2 место** в международном конкурсе научно-практических работ
+- 🚀 **17K+ пользователей** активных пользователей в Telegram-ботах
+- ❄️ **NPR MeteoBot** - критически важная система уведомлений для Заполярья
+- ⚡ **95% улучшение** производительности SQL-запросов
+- 🎓 **Руководитель команды разработки** в МосПолитехе по проектам "EasyAccess" и "Национального офисного пакета"
+- 📱 Разработка **навигационной системы** для 50,000+ студентов МосПолитеха
+
+</details>
+
+<details>
+  <summary>💼 Опыт</summary>
+
+### **Руководитель команды разработки** | МосПолитех | 2024 - настоящее время
+- Руководство разработкой Python/Django решений для веб-доступности EasyAccess
+- Управление командой по разработки офисного пакета на базе Apache OpenOffice
+- Архитектура API, работа с PostgreSQL, настройка Docker
+
+### **Backend Developer** | Freelance | 2020 - настоящее время
+- Разработка высоконагруженных Telegram-ботов (17K+ пользователей)
+- Создание enterprise-решений с gRPC и микросервисной архитектурой
+- Автоматизация бизнес-процессов и парсинг данных
+</details>
 
 ---
 
-<div align="center">
-  <sub>💡 Всегда открыт для интересных проектов и технических вызовов</sub>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EDeev&color=blue&style=for-the-badge" alt="visitor counter"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+</p>
